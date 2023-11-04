@@ -4,11 +4,11 @@
 <h1>Hi 👋, I'm Mojjss!</h1>
 <h3>A passionate Computer Engineering student from Iran</h3>
 
-- 👀 I’m interested in Astronomy, Tech, fixing things and many other geek-related stuff ...
-- 🌱 Currently learning AI and my University lessons ...
-- 💞️ Looking to be a better version of myself everyday !...
-- 📫 How to reach me : **info@mojsadafi.ir**
-- ⚡ Fun fact: **When I'm not doing computer related stuff, I take photos of night sky or maybe play some metal riffs!**
+- 👀 **I’m interested in Astronomy, Tech, fixing things and many other geek-related stuff...**
+- 🌱 **Currently learning AI and my University lessons...**
+- 💞️ **Looking to be a better version of myself everyday!**
+- 📫 **How to reach me: info@mojsadafi.ir**
+- ⚡ **Fun fact: When I'm not doing computer related stuff, I take photos of night sky or maybe play some metal riffs!**
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/62790976/211205524-5f538fe4-678b-4fe7-8d7e-94e4f0a2cba4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mojjss&style=for-the-badge&color=blue&label=Profile%20views" alt="mojjss" /> </p>
 
