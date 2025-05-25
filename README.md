@@ -20,7 +20,7 @@
 
 
 
-<a href="https://t.me/mojjss" target="blank"><img align="center" src="[https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png](https://images.seeklogo.com/logo-png/25/1/telegram-logo-png_seeklogo-256226.png)" alt="mojjss" height="30" width="30" /></a>
+<a href="https://t.me/mojjss" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="mojjss" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mojtaba sadafi " height="30" width="30" /></a>
 <a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moj.sadafi" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mojjss" height="30" width="30" /></a>
