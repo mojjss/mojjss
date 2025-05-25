@@ -15,20 +15,11 @@
 
 <h3 align="left">Connect with me 📫:</h3>
 <a href="https://moj.sadafi.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/My-first-public-repository/main/_7c290245-7a2e-4b86-bd23-2133f0741a3322%20copy%202.png" alt="the_mojjss" height="30" width="30" /></a>https://mojsadafi.ir/            
-
-
-
-
-
-
-<a href="https://t.me/mojjss" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/Telegram-icon-on-transparent-background-PNG.png)" alt="Mojtaba Sadafi Telegram " height="30" width="30" /></a>
+<a href="https://t.me/mojjss" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/Telegram-icon-on-transparent-background-PNG.png" alt="Mojtaba Sadafi Telegram " height="30" width="30" /></a>
 
 <a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mojtaba Sadafi Linkedin " height="30" width="30" /></a>
 
-
-
 <a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mojtaba Sadafi Instagram" height="30" width="30" /></a>
-
 <a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
 
 
