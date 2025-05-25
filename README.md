@@ -20,10 +20,17 @@
 
 
 
-<a href="https://t.me/mojjss" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" alt="mojjss" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mojtaba sadafi " height="30" width="30" /></a>
-<a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moj.sadafi" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mojjss" height="30" width="30" /></a>
+
+<a href="https://t.me/mojjss" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/Telegram-icon-on-transparent-background-PNG.png)" alt="Mojtaba Sadafi Telegram " height="30" width="30" /></a>
+
+<a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mojtaba Sadafi Linkedin " height="30" width="30" /></a>
+
+
+
+<a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mojtaba Sadafi Instagram" height="30" width="30" /></a>
+
+<a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
+
 
 
 </p>
