@@ -19,7 +19,7 @@
 <a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mojtaba Sadafi Instagram" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
 <a href="https://scholar.google.com/citations?user=3Brv6xMAAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngwing.com.png" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
-
+<a href="https://scholar.google.com/citations?user=3Brv6xMAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/800px-ResearchGate_icon_SVG.svg.png" alt="Mojtaba Sadafi Researchgate" height="30" width="30" /></a>
 
 
 </p>
