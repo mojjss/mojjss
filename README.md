@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mojtaba Sadafi Linkedin " height="30" width="30" /></a>
 <a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mojtaba Sadafi Instagram" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w](https://scholar.google.com/citations?hl=en&user=3Brv6xMAAAAJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngwing.com.png" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
+<a href="https://scholar.google.com/citations?user=3Brv6xMAAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngwing.com.png" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
 
 
 
