@@ -23,7 +23,7 @@
 <a href="https://www.researchgate.net/profile/Mojtaba-Sadafi-3?ev=hdr_xprf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/800px-ResearchGate_icon_SVG.svg.png" alt="Mojtaba Sadafi Researchgate" height="30" width="30" /></a>
 <a href="https://x.com/the_mojjss" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/587888d9276a97055dbdbf8c0c314f8f.png" alt="Mojtaba Sadafi X" height="37" width="37" /></a>
 <a href="https://www.duolingo.com/profile/Mojjss" target="blank"><img align="center" src="https://images.chesscomfiles.com/chess-flair/duolingo/duo_chill.svg" alt="Mojtaba Sadafi Doulingo" height="30" width="30" /></a>
-
+<a href="https://ieeexplore.ieee.org/author/454258731158074" target="blank"><img align="center" src="https://nimonik.com/wp-content/uploads/bsmq8rbdsnijtp9hbtg5-946x1024.webp" alt="Mojtaba Sadafi Doulingo" height="35" width="35" /></a>
 
 
 
