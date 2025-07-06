@@ -17,11 +17,12 @@
 <a href="https://t.me/mojjss" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Mojtaba Sadafi Telegram " height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mojtaba Sadafi Linkedin " height="30" width="30" /></a>
 <a href="https://instagram.com/moj.sadafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mojtaba Sadafi Instagram" height="30" width="30" /></a>
+<a href="https://open.spotify.com/user/uvv0t1rokcl6e13eeathj1fx4?si=14f956f643ee4e20" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngegg.png" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
 <a href="https://scholar.google.com/citations?user=3Brv6xMAAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngwing.com.png" alt="Mojtaba Sadafi YouTube" height="30" width="30" /></a>
 <a href="https://www.researchgate.net/profile/Mojtaba-Sadafi-3?ev=hdr_xprf" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/800px-ResearchGate_icon_SVG.svg.png" alt="Mojtaba Sadafi Researchgate" height="30" width="30" /></a>
 <a href="https://x.com/the_mojjss" target="blank"><img align="center" src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/587888d9276a97055dbdbf8c0c314f8f.png" alt="Mojtaba Sadafi X" height="37" width="37" /></a>
-<a href="https://www.duolingo.com/profile/Mojjss" target="blank"><img align="center" src="https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=contain,w=200,h=200,q=100/sites/www.builtin.com/files/2022-06/Duolingo_Avatar_Non-Square%403x-modified.png" alt="Mojtaba Sadafi Doulingo" height="30" width="30" /></a>
+<a href="https://www.duolingo.com/profile/Mojjss" target="blank"><img align="center" src="https://images.chesscomfiles.com/chess-flair/duolingo/duo_chill.svg" alt="Mojtaba Sadafi Doulingo" height="30" width="30" /></a>
 
 
 
