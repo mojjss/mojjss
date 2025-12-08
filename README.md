@@ -22,6 +22,7 @@
   <strong>Professional:</strong><br/>
   <a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=3Brv6xMAAAAJ&hl=en" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngwing.com.png" alt="Google Scholar" width="30" height="30"/></a>&nbsp;
+    <a href="https://orcid.org/0009-0005-8323-1967" target="_blank"><img align="center"  src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Mojtaba Sadafi ORCID" width="30" height="30"/></a>&nbsp;
   <a href="https://www.researchgate.net/profile/Mojtaba-Sadafi-3?ev=hdr_xprf" target="_blank"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/800px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" width="30" height="30"/></a>&nbsp;
   <a href="https://ieeexplore.ieee.org/author/454258731158074" target="_blank"><img align="center"  src="https://nimonik.com/wp-content/uploads/bsmq8rbdsnijtp9hbtg5-946x1024.webp" alt="IEEE Xplore" width="37" height="37"/></a>
 </p>
@@ -31,6 +32,7 @@
 <a href="https://t.me/mojjss" target="_blank"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Mojtaba Sadafi Telegram" width="30" height="30"/></a>&nbsp;
 <a href="https://x.com/the_mojjss" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/587888d9276a97055dbdbf8c0c314f8f.png" alt="Mojtaba Sadafi X" width="37" height="37"/></a>&nbsp;
 <a href="https://instagram.com/moj.sadafi" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mojtaba Sadafi IG" width="30" height="30"/></a>&nbsp;
+  <a href="https://share.google/Wi2EQA89Mucb2vgp7" target="_blank"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" alt="Mojtaba Sadafi Google Knowledge Panel" width="30" height="30"/></a>&nbsp;
 <a href="https://open.spotify.com/user/uvv0t1rokcl6e13eeathj1fx4?si=14f956f643ee4e20" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngegg.png" alt="Mojtaba Sadafi Spotify" width="30" height="30"/></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mojtaba Sadafi YouTube" width="37" height="37"/></a>
 
