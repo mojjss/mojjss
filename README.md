@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Mojjss!</h1>
 <h3>A Computer Engineering student and AI enthusiast based in Rasht, Iran</h3>
-
+<p>Based in Rasht, Iran, I am a B.Sc. student in Computer Engineering at Esfarayen University of Technology in North Khorasan Province. My research focuses on optimizing sensor configurations and the performance of high-voltage AC–DC converters, as well as enhancing power distribution networks, such as strategic PMU placement, through computational algorithms. </p>
 - 👀 **I’m interested in Astronomy, Tech, fixing things and many other geek-related stuff.**
 - 🌱 **Currently learning AI and my University lessons**
 - 💞️ **Looking to be a better version of myself everyday!**
