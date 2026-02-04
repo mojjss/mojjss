@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/mojtaba-sadafi-772161188" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=3Brv6xMAAAAJ&hl=en" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngwing.com.png" alt="Google Scholar" width="30" height="30"/></a>&nbsp;
     <a href="https://orcid.org/0009-0005-8323-1967" target="_blank"><img align="center"  src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Mojtaba Sadafi ORCID" width="30" height="30"/></a>&nbsp;
-  <a href="https://www.researchgate.net/profile/Mojtaba-Sadafi-3?ev=hdr_xprf" target="_blank"><img align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/800px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" width="30" height="30"/></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Mojtaba-Sadafi-3?ev=hdr_xprf" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/ResearchGate_icon_SVG.svg.png" alt="ResearchGate" width="30" height="30"/></a>&nbsp;
   <a href="https://ieeexplore.ieee.org/author/454258731158074" target="_blank"><img align="center"  src="https://nimonik.com/wp-content/uploads/bsmq8rbdsnijtp9hbtg5-946x1024.webp" alt="IEEE Xplore" width="37" height="37"/></a>
 </p>
 
