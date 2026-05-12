@@ -44,7 +44,7 @@
     <td align="center"><a href="https://t.me/mojjss" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30"/></a></td>
     <td align="center"><a href="https://x.com/the_mojjss" target="_blank"><img src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/587888d9276a97055dbdbf8c0c314f8f.png" alt="X (Twitter)" width="37" height="37"/></a></td>
     <td align="center"><a href="https://instagram.com/moj.sadafi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/></a></td>
-    <td align="center"><a href="https://share.google/Wi2EQA89Mucb2vgp7" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" alt="Google Knowledge Panel" width="30" height="30"/></a></td>
+    <td align="center"><a href="https://share.google/Wi2EQA89Mucb2vgp7" target="_blank"><img src="https://avatars.githubusercontent.com/u/1342004?s=48&v=4" alt="Google Knowledge Panel" width="30" height="30"/></a></td>
     <td align="center"><a href="https://open.spotify.com/user/uvv0t1rokcl6e13eeathj1fx4?si=14f956f643ee4e20" target="_blank"><img src="https://raw.githubusercontent.com/mojjss/mojjss/refs/heads/main/Files/pngegg.png" alt="Spotify" width="30" height="30"/></a></td>
     <td align="center"><a href="https://www.youtube.com/channel/UCAo6-TSu7BjE7hbuzoFZW0w" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="37" height="37"/></a></td>
   </tr>
