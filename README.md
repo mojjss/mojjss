@@ -4,7 +4,7 @@
 <h3>Computer Engineering Graduate | AI & Power Systems Researcher</h3>
 
 <p>
-  B.Sc. student in Computer Engineering at <strong>Esfarayen University of Technology</strong>. 
+Based in Rasht, I am a B.Sc. student in Computer Engineering at <strong>Esfarayen University of Technology</strong>. 
   I’m actively deepening my skills in machine learning, neural networks, and algorithm design, and I apply them to real‑world engineering problems with a particular focus on power systems. 
   Currently, I’m working on research projects that use these methods for <strong>strategic PMU placement</strong> in distribution networks, 
   algorithm‑driven optimization of <strong>high‑voltage AC–DC converter performance</strong>, and intelligent sensor configuration. 
